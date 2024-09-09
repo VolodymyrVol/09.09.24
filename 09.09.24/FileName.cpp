@@ -123,10 +123,11 @@ int main()
 	ptr[2] = new Parrot();
 	ptr[2] = new Hamster();
 
-	for (int i = 0; i < 3; i++)
+	for (int i = 0; i < 4; i++)
 	{
 		ptr[i]->Sound();
 		ptr[i]->Show();
 		ptr[i]->Type();
+		cout << endl;
 	}
 }
