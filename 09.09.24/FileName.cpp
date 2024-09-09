@@ -121,7 +121,7 @@ int main()
 	ptr[0] = new Dog();
 	ptr[1] = new Cat();
 	ptr[2] = new Parrot();
-	ptr[2] = new Hamster();
+	ptr[3] = new Hamster();
 
 	for (int i = 0; i < 4; i++)
 	{
