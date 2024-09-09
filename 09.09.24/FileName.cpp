@@ -33,7 +33,7 @@ public:
 	}
 	void Sound()
 	{
-		cout << sound;
+		cout << sound << endl;
 	}
 	void Show()
 	{
@@ -41,7 +41,7 @@ public:
 	}
 	void Type()
 	{
-		cout << "Type: " << type;
+		cout << "Type: " << type << endl;
 	}
 };
 
@@ -56,7 +56,7 @@ public:
 	}
 	void Sound()
 	{
-		cout << sound;
+		cout << sound << endl;
 	}
 	void Show()
 	{
@@ -64,7 +64,7 @@ public:
 	}
 	void Type()
 	{
-		cout << "Type: " << type;
+		cout << "Type: " << type << endl;
 	}
 };
 
@@ -79,7 +79,7 @@ public:
 	}
 	void Sound()
 	{
-		cout << sound;
+		cout << sound << endl;
 	}
 	void Show()
 	{
@@ -87,7 +87,7 @@ public:
 	}
 	void Type()
 	{
-		cout << "Type: " << type;
+		cout << "Type: " << type << endl;
 	}
 };
 
@@ -102,7 +102,7 @@ public:
 	}
 	void Sound()
 	{
-		cout << sound;
+		cout << sound << endl;
 	}
 	void Show()
 	{
@@ -110,7 +110,7 @@ public:
 	}
 	void Type()
 	{
-		cout << "Type: " << type;
+		cout << "Type: " << type << endl;
 	}
 };
 
